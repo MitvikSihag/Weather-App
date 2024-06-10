@@ -9,6 +9,11 @@ A responsive weather application built with React that fetches and displays real
 - Intuitive Navigation: Simple and easy-to-use interface.
 - Advanced Styling: Visually appealing design with a focus on accessibility and cross-device compatibility.
 
+## Screenshots
+
+![React App - Google Chrome 10-06-2024 14_01_18](https://github.com/MitvikSihag/Weather-App/assets/101905157/2d7ed973-51a0-4847-bd84-14549118bc1a)
+![React App - Google Chrome 10-06-2024 14_01_08](https://github.com/MitvikSihag/Weather-App/assets/101905157/b1120e8f-bcd5-4acc-98f3-fa620b7930be)
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
