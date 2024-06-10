@@ -11,8 +11,8 @@ A responsive weather application built with React that fetches and displays real
 
 ## Screenshots
 
-![React App - Google Chrome 10-06-2024 14_01_18](https://github.com/MitvikSihag/Weather-App/assets/101905157/2d7ed973-51a0-4847-bd84-14549118bc1a)
 ![React App - Google Chrome 10-06-2024 14_01_08](https://github.com/MitvikSihag/Weather-App/assets/101905157/b1120e8f-bcd5-4acc-98f3-fa620b7930be)
+![React App - Google Chrome 10-06-2024 14_01_18](https://github.com/MitvikSihag/Weather-App/assets/101905157/2d7ed973-51a0-4847-bd84-14549118bc1a)
 
 ## Getting Started
 
